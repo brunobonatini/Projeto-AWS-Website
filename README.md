@@ -30,3 +30,5 @@ Proteção de ataque em linha;
 
 Serviço gratuito oferecido pela AWS que juntamente com CloudFront, protege as camadas 3 e 4.
 
+<img src = "https://github.com/brunobonatini/Projeto-AWS-Website/blob/main/Arquitetura-projeto.png">
+

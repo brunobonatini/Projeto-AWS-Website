@@ -1,2 +1,32 @@
-# Projeto-AWS-Website
-Repositório do projeto de um Website site na Nuvem AWS
+# Projeto de Website para Divulgação de Currículo
+
+## Objetivo
+
+Website contendo currículos com implementação de serviços na nuvem AWS, com rede de entrega de conteúdo, baixa latência, segurança e armazenamento durável, atendendo uma demanda de 11 milhões de requisições por mês.
+
+## Tecnologias
+
+* Amazon S3 - Bucket
+  
+Armazenamento estável (99,999999999%  de resiliência dos dados);
+
+Latência de primeiro byte em milisegundos ;
+
+Baixo custo de operação.
+
+* Amazon CloudFront
+
+Segurança na borda;
+
+Edge Locations (distribuição dos dados por cachê);
+
+SSL/TSL para criptografia e segurança.
+
+* AWS Shield Standard
+
+Proteção contra DDos;
+
+Proteção de ataque em linha;
+
+Serviço gratuito oferecido pela AWS que juntamente com CloudFront protegem;as camadas 3 e 4.
+

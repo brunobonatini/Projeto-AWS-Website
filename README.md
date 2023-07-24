@@ -32,3 +32,5 @@ Serviço gratuito oferecido pela AWS que juntamente com CloudFront, protege as c
 
 <img src = "https://github.com/brunobonatini/Projeto-AWS-Website/blob/main/Arquitetura-projeto.png">
 
+<img src = "https://github.com/brunobonatini/Projeto-AWS-Website/blob/main/Proposta-projeto.png">
+

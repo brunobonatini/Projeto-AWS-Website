@@ -28,5 +28,5 @@ Proteção contra DDos;
 
 Proteção de ataque em linha;
 
-Serviço gratuito oferecido pela AWS que juntamente com CloudFront protegem;as camadas 3 e 4.
+Serviço gratuito oferecido pela AWS que juntamente com CloudFront, protege as camadas 3 e 4.
 
